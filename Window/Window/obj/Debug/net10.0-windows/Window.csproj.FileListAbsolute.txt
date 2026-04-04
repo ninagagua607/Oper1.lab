@@ -1,0 +1,16 @@
+C:\Users\Нина\Desktop\oper_lab\Window\Window\bin\Debug\net10.0-windows\Window.exe
+C:\Users\Нина\Desktop\oper_lab\Window\Window\bin\Debug\net10.0-windows\Window.deps.json
+C:\Users\Нина\Desktop\oper_lab\Window\Window\bin\Debug\net10.0-windows\Window.runtimeconfig.json
+C:\Users\Нина\Desktop\oper_lab\Window\Window\bin\Debug\net10.0-windows\Window.dll
+C:\Users\Нина\Desktop\oper_lab\Window\Window\bin\Debug\net10.0-windows\Window.pdb
+C:\Users\Нина\Desktop\oper_lab\Window\Window\obj\Debug\net10.0-windows\Window.Form1.resources
+C:\Users\Нина\Desktop\oper_lab\Window\Window\obj\Debug\net10.0-windows\Window.csproj.GenerateResource.cache
+C:\Users\Нина\Desktop\oper_lab\Window\Window\obj\Debug\net10.0-windows\Window.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Нина\Desktop\oper_lab\Window\Window\obj\Debug\net10.0-windows\Window.AssemblyInfoInputs.cache
+C:\Users\Нина\Desktop\oper_lab\Window\Window\obj\Debug\net10.0-windows\Window.AssemblyInfo.cs
+C:\Users\Нина\Desktop\oper_lab\Window\Window\obj\Debug\net10.0-windows\Window.csproj.CoreCompileInputs.cache
+C:\Users\Нина\Desktop\oper_lab\Window\Window\obj\Debug\net10.0-windows\Window.dll
+C:\Users\Нина\Desktop\oper_lab\Window\Window\obj\Debug\net10.0-windows\refint\Window.dll
+C:\Users\Нина\Desktop\oper_lab\Window\Window\obj\Debug\net10.0-windows\Window.pdb
+C:\Users\Нина\Desktop\oper_lab\Window\Window\obj\Debug\net10.0-windows\Window.genruntimeconfig.cache
+C:\Users\Нина\Desktop\oper_lab\Window\Window\obj\Debug\net10.0-windows\ref\Window.dll
