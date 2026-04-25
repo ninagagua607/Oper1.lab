@@ -1,0 +1,6 @@
+C:\Users\Нина\Desktop\oper_lab\GlobalHookLib\GlobalHookLib\obj\Debug\GlobalHookLib.csproj.AssemblyReference.cache
+C:\Users\Нина\Desktop\oper_lab\GlobalHookLib\GlobalHookLib\obj\Debug\GlobalHookLib.csproj.CoreCompileInputs.cache
+C:\Users\Нина\Desktop\oper_lab\GlobalHookLib\GlobalHookLib\bin\Debug\GlobalHookLib.dll
+C:\Users\Нина\Desktop\oper_lab\GlobalHookLib\GlobalHookLib\bin\Debug\GlobalHookLib.pdb
+C:\Users\Нина\Desktop\oper_lab\GlobalHookLib\GlobalHookLib\obj\Debug\GlobalHookLib.dll
+C:\Users\Нина\Desktop\oper_lab\GlobalHookLib\GlobalHookLib\obj\Debug\GlobalHookLib.pdb
