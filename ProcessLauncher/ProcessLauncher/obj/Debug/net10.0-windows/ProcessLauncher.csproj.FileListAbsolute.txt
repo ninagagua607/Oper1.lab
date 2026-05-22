@@ -1,0 +1,14 @@
+C:\Users\Нина\Desktop\oper_lab\ProcessLauncher\ProcessLauncher\obj\Debug\net10.0-windows\ProcessLauncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Нина\Desktop\oper_lab\ProcessLauncher\ProcessLauncher\obj\Debug\net10.0-windows\ProcessLauncher.AssemblyInfoInputs.cache
+C:\Users\Нина\Desktop\oper_lab\ProcessLauncher\ProcessLauncher\obj\Debug\net10.0-windows\ProcessLauncher.AssemblyInfo.cs
+C:\Users\Нина\Desktop\oper_lab\ProcessLauncher\ProcessLauncher\obj\Debug\net10.0-windows\ProcessLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Нина\Desktop\oper_lab\ProcessLauncher\ProcessLauncher\bin\Debug\net10.0-windows\ProcessLauncher.exe
+C:\Users\Нина\Desktop\oper_lab\ProcessLauncher\ProcessLauncher\bin\Debug\net10.0-windows\ProcessLauncher.deps.json
+C:\Users\Нина\Desktop\oper_lab\ProcessLauncher\ProcessLauncher\bin\Debug\net10.0-windows\ProcessLauncher.runtimeconfig.json
+C:\Users\Нина\Desktop\oper_lab\ProcessLauncher\ProcessLauncher\bin\Debug\net10.0-windows\ProcessLauncher.dll
+C:\Users\Нина\Desktop\oper_lab\ProcessLauncher\ProcessLauncher\bin\Debug\net10.0-windows\ProcessLauncher.pdb
+C:\Users\Нина\Desktop\oper_lab\ProcessLauncher\ProcessLauncher\obj\Debug\net10.0-windows\ProcessLauncher.dll
+C:\Users\Нина\Desktop\oper_lab\ProcessLauncher\ProcessLauncher\obj\Debug\net10.0-windows\refint\ProcessLauncher.dll
+C:\Users\Нина\Desktop\oper_lab\ProcessLauncher\ProcessLauncher\obj\Debug\net10.0-windows\ProcessLauncher.pdb
+C:\Users\Нина\Desktop\oper_lab\ProcessLauncher\ProcessLauncher\obj\Debug\net10.0-windows\ProcessLauncher.genruntimeconfig.cache
+C:\Users\Нина\Desktop\oper_lab\ProcessLauncher\ProcessLauncher\obj\Debug\net10.0-windows\ref\ProcessLauncher.dll
